@@ -1,0 +1,7 @@
+Below are references to source codes used/adapted from
+
+For Java Progress Bar:
+https://docs.oracle.com/javase/tutorial/uiswing/components/progress.html#bars
+
+For adding images:
+https://www.youtube.com/watch?v=VQbTZmY-qHU 
